@@ -1,0 +1,7 @@
+{
+    "array":[1,2,3,"hell"],
+    "obj":{
+        "name":"poojan",
+        "age":23
+    }
+}
